@@ -8,6 +8,6 @@ gives us the best accuracy.
 Worked on it using 5 sampling Techniques 
 1. Random Under Sampler 
 2. Random Over Sampler 
-3. SMOTE (Sampling3)
+3. SMOTE 
 4. TOMEK links 
 5. Near Miss 
